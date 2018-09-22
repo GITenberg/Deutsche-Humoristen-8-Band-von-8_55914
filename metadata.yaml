@@ -1,5 +1,5 @@
 _repo: Deutsche-Humoristen-8-Band-von-8_55914
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Herrmann, Theodor
@@ -7,11 +7,14 @@ contributor:
     deathdate: 1926
     gutenberg_agent_id: '45827'
     url: http://www.gutenberg.org/2009/agents/45827
+covers:
+- cover_type: archival
+  image_path: 55914-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Thoma, Ludwig
     alias: Schlemihl, Peter
-    birthdate: &id001 1867
+    birthdate: 1867
     deathdate: 1921
     gutenberg_agent_id: '1607'
     url: http://www.gutenberg.org/2009/agents/1607
@@ -33,7 +36,7 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46350
   - agent_name: Schönherr, Karl
     alias: Schonherr, Karl
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1943
     gutenberg_agent_id: '45116'
     url: http://www.gutenberg.org/2009/agents/45116
@@ -51,6 +54,8 @@ creator:
     gutenberg_agent_id: '48579'
     url: http://www.gutenberg.org/2009/agents/48579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55914#Deutsche-Humoristen-8-Band-von-8
 gutenberg_issued: '2017-11-08'
 gutenberg_type: Text
 identifiers:
