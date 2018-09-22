@@ -1,0 +1,65 @@
+_repo: Deutsche-Humoristen-8-Band-von-8_55914
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Herrmann, Theodor
+    birthdate: 1881
+    deathdate: 1926
+    gutenberg_agent_id: '45827'
+    url: http://www.gutenberg.org/2009/agents/45827
+creator:
+  authors:
+  - agent_name: Thoma, Ludwig
+    alias: Schlemihl, Peter
+    birthdate: &id001 1867
+    deathdate: 1921
+    gutenberg_agent_id: '1607'
+    url: http://www.gutenberg.org/2009/agents/1607
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Thoma
+  - agent_name: Presber, Rudolf
+    gutenberg_agent_id: '48578'
+    url: http://www.gutenberg.org/2009/agents/48578
+  - agent_name: Bierbaum, Otto Julius
+    alias: Bierbaum, O. J.
+    birthdate: 1865
+    deathdate: 1910
+    gutenberg_agent_id: '42471'
+    url: http://www.gutenberg.org/2009/agents/42471
+  - agent_name: Fock, Gorch
+    alias: Kinau, Johann
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '46350'
+    url: http://www.gutenberg.org/2009/agents/46350
+  - agent_name: Schönherr, Karl
+    alias: Schonherr, Karl
+    birthdate: *id001
+    deathdate: 1943
+    gutenberg_agent_id: '45116'
+    url: http://www.gutenberg.org/2009/agents/45116
+    wikipedia: http://de.wikipedia.org/wiki/Karl_Sch%C3%B6nherr
+  - agent_name: Schäfer, Wilhelm
+    aliases:
+    - Schafer, Wilhelm
+    - Schäfer-Dittmar, Wilhelm
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '47579'
+    url: http://www.gutenberg.org/2009/agents/47579
+  editor:
+    agent_name: Goos, Max
+    gutenberg_agent_id: '48579'
+    url: http://www.gutenberg.org/2009/agents/48579
+description: ''
+gutenberg_issued: '2017-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55914'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Deutsche Humoristen, 8. Band (von 8)
+url: http://www.gutenberg.org/ebooks/55914
